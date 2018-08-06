@@ -1,0 +1,157 @@
+.mySlides,
+mySlides_1,
+.mySlides_2,
+.mySlides_3 {
+    z-index: -10;
+    display: none;
+/*        background-color: green;*/
+    /*    min-height: 494px;*/
+}
+
+.prev,
+.next {
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    /*
+     Introduced in IE 10.
+     See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+   */
+    -ms-user-select: none;
+    user-select: none;
+    position: absolute;
+    cursor: pointer;
+    top: 40%;
+    font-weight: bold;
+    font-size: 22px;
+    /*    line-height: 24px;*/
+    transition: 0.6s ease;
+    padding: 13px;
+    border: solid 1px rgba(0, 0, 0, 0);
+}
+
+.prev {
+    border-radius: 15px 0 0 15px;
+    /*    padding-left: 12px;*/
+    left: -35px;
+}
+
+.next {
+    border-radius: 0 15px 15px 0;
+    /*    padding-right: 12px;*/
+    right: -35px;
+}
+
+.prev:hover,
+.next:hover {
+    /*    border: solid 1px lightgray;*/
+    background-color: #F5F6F8;
+}
+
+.prev:active,
+.next:active {
+    border: solid 1px lightgray;
+    /*    background-color: rgba(211, 211, 211, 0.53);*/
+}
+
+.dot,
+.dot_1,
+.dot_2,
+.dot_3 {
+    cursor: pointer;
+    min-height: 10px;
+    min-width: 10px;
+    margin: 0 3px;
+    background-color: #bbb;
+    border-radius: 50%;
+    transition: background-color 0.6s ease;
+}
+
+.step {
+    box-sizing: content-box;
+    padding: 17px;
+    padding-left: 5px;
+    border-radius: 7px;
+    border: solid 1px rgba(0, 0, 0, 0);
+}
+
+.step.active {
+    background-color: #F5F6F8;
+}
+
+.step.active:hover {
+    background-color: #F5F6F8;
+}
+
+.step:hover {
+    transition: border-color 0.3s ease;
+}
+
+.step:active {
+    border: solid 1px lightgray;
+}
+
+.dot.active,
+.dot:hover {
+    opacity: 1;
+    background-color: #464646;
+}
+
+.dot_1.active,
+.dot_1:hover {
+    opacity: 1;
+    background-color: #464646;
+}
+
+.dot_2.active,
+.dot_2:hover {
+    opacity: 1;
+    background-color: #464646;
+}
+
+dot_3.active,
+.dot_3:hover {
+    opacity: 1;
+    background-color: #464646;
+}
+
+.dotty {
+    position: absolute;
+    display: inline-flex;
+    bottom: -27px;
+    left: 0;
+    right: 0;
+    justify-content: center;
+}
+
+.slide-container {
+    /*        border: solid 1px red;*/
+    top: 50px;
+    height: 445px;
+    width: 256px;
+    position: absolute;
+    margin: 0;
+    left: 680px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.slide-container_2 {
+    /*    border: solid 1px red;*/
+    /*        top: 50px;*/
+    height: 445px;
+    width: 256px;
+    position: absolute;
+    margin: 0;
+    left: 680px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.slide-container_3 {}
