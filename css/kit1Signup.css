@@ -1,0 +1,597 @@
+@font-face {
+    font-family: "SFCompactText-Regular";
+    src: url('../fonts/SFCompactText-Regular.otf') format("opentype");
+}
+
+@font-face {
+    font-family: "SFProText-Regular";
+    src: url('../fonts/SF-Pro-Text-Regular.otf') format("opentype");
+}
+
+@font-face {
+    font-family: "SFCompactText-Bold";
+    src: url('../fonts/SFCompactText-Bold.otf') format("opentype");
+}
+
+.kit1signup {
+    width: 100%;
+    min-width: 1440px;
+    /*  height              : 100vh;*/
+    min-height: 1080px;
+    position: relative;
+    overflow: hidden;
+    margin: 0px;
+    background-color: rgba(252, 252, 252, 1.0);
+}
+
+a {
+    text-decoration: none;
+}
+
+div {
+    -webkit-text-size-adjust: none;
+}
+
+.kit1signup .group11 {
+    background-color: rgba(255, 255, 255, 0.0);
+    width: 495px;
+    height: 100%;
+    pointer-events: auto;
+    position: relative;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group11-layout-container {
+    pointer-events: none;
+    flex-direction: column;
+    top: 117px;
+    align-items: center;
+    height: 95px;
+    width: 100%;
+    position: absolute;
+    margin: 0;
+    display: flex;
+    left: 0;
+}
+
+.kit1signup .group11 .signup {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 168px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+    font-family: "SFCompactText-Regular", Helvetica, Arial, serif;
+    font-size: 42.0px;
+    color: rgba(46, 46, 46, 1.0);
+    text-align: center;
+    line-height: 50.0px;
+}
+
+.kit1signup .group11 .createajdaxaccoun {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 59px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: -1px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+    font-family: "SFCompactText-Regular", Helvetica, Arial, serif;
+    font-size: 30.0px;
+    color: rgba(102, 102, 102, 1.0);
+    text-align: center;
+    line-height: 36.0px;
+}
+
+.kit1signup .group10 {
+    background-color: rgba(255, 255, 255, 0.0);
+    width: 936px;
+    height: 100%;
+    pointer-events: auto;
+    position: relative;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group10-layout-container {
+    pointer-events: none;
+    flex-direction: column;
+    top: 290px;
+    align-items: center;
+    height: 381px;
+    width: 100%;
+    position: absolute;
+    margin: 0;
+    display: flex;
+    left: 0;
+}
+
+.kit1signup .group10 .group9 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 28px;
+    width: 290px;
+    position: absolute;
+    margin: 0;
+    left: 7px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group10 .group9 .makeanewaccount {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 38px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+    font-family: "SFCompactText-Regular", Helvetica, Arial, serif;
+    font-size: 22.0px;
+    color: rgba(46, 46, 46, 1.0);
+    text-align: left;
+    line-height: 26.0px;
+}
+
+.kit1signup .group10 .group9 .stroke2 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 28px;
+    width: 27px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group10 .slidesX {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 41px;
+    height: 340px;
+    width: 256px;
+    position: absolute;
+    margin: 0;
+    left: 680px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group10 .slides .group7 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 340px;
+    width: 256px;
+    position: relative;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group10 .group8 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 67px;
+    height: 262px;
+    width: 586px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group10 .group8 .group4 {
+    /*  background-color    : rgba(255,255,255,0.0);*/
+    top: 96px;
+    height: 70px;
+    width: 550px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group10 .group8 .group4 .onceyouhavesigned {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 28px;
+    height: auto;
+    width: 500px;
+    position: absolute;
+    margin: 0;
+    left: 48px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+    font-family: "SFProText-Regular", Helvetica, Arial, serif;
+    font-size: 16.0px;
+    color: rgba(153, 153, 153, 1.0);
+    text-align: left;
+    line-height: 21.0px;
+}
+
+.kit1signup .group10 .group8 .group4 .confirmemail {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: auto;
+    width: 209px;
+    position: absolute;
+    margin: 0;
+    left: 48px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+    font-family: "SFCompactText-Bold", Helvetica, Arial, serif;
+    font-size: 16.0px;
+    color: rgba(46, 46, 46, 1.0);
+    text-align: left;
+    letter-spacing: 0.36px;
+    line-height: 19.0px;
+}
+
+.kit1signup .group10 .group8 .group4 .graphicsnumbers1copy {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 36px;
+    width: 38px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group10 .group8 .group4 .graphicsnumbers1copy .oval2 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 36px;
+    width: 38px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group10 .group8 .group4 .graphicsnumbers1copy .a2 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 6px;
+    height: 24px;
+    width: 12px;
+    position: absolute;
+    margin: 0;
+    left: 13px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group10 .group8 .group2 {
+    /*  background-color    : rgba(255,255,255,0.0);*/
+    top: 0px;
+    height: 49px;
+    width: 549px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group10 .group8 .group2 .tosetupajdaxacc {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 28px;
+    height: auto;
+    width: 504px;
+    position: absolute;
+    margin: 0;
+    left: 45px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+    font-family: "SFProText-Regular", Helvetica, Arial, serif;
+    font-size: 16.0px;
+    color: rgba(153, 153, 153, 1.0);
+    text-align: left;
+    line-height: 21.0px;
+}
+
+.kit1signup .group10 .group8 .group2 .signup {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: auto;
+    width: 196px;
+    position: absolute;
+    margin: 0;
+    left: 45px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+    font-family: "SFCompactText-Bold", Helvetica, Arial, serif;
+    font-size: 16.0px;
+    color: rgba(46, 46, 46, 1.0);
+    text-align: left;
+    letter-spacing: 0.36px;
+    line-height: 19.0px;
+}
+
+.kit1signup .group10 .group8 .group2 .graphicsnumbers1copy4 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 36px;
+    width: 36px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group10 .group8 .group2 .graphicsnumbers1copy4 .oval2 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 36px;
+    width: 36px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group10 .group8 .group2 .graphicsnumbers1copy4 .a1 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 6px;
+    height: 24px;
+    width: 10px;
+    position: absolute;
+    margin: 0;
+    left: 13px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group10 .group8 .group5 {
+    /*  background-color    : rgba(255,255,255,0.0);*/
+    top: 213px;
+    height: 49px;
+    width: 549px;
+    position: absolute;
+    margin: 0;
+    left: 1px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group10 .group8 .group5 .whenyouremailhas {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 28px;
+    height: auto;
+    width: 504px;
+    position: absolute;
+    margin: 0;
+    left: 45px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+    font-family: "SFProText-Regular", Helvetica, Arial, serif;
+    font-size: 16.0px;
+    color: rgba(153, 153, 153, 1.0);
+    text-align: left;
+    line-height: 21.0px;
+}
+
+.kit1signup .group10 .group8 .group5 .login {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: auto;
+    width: 196px;
+    position: absolute;
+    margin: 0;
+    left: 45px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+    font-family: "SFCompactText-Bold", Helvetica, Arial, serif;
+    font-size: 16.0px;
+    color: rgba(46, 46, 46, 1.0);
+    text-align: left;
+    letter-spacing: 0.36px;
+    line-height: 19.0px;
+}
+
+.kit1signup .group10 .group8 .group5 .graphicsnumbers1copy2 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 36px;
+    width: 36px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group10 .group8 .group5 .graphicsnumbers1copy2 .oval2 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 36px;
+    width: 36px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.kit1signup .group10 .group8 .group5 .graphicsnumbers1copy2 .a3 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 6px;
+    height: 24px;
+    width: 12px;
+    position: absolute;
+    margin: 0;
+    left: 12px;
+    -ms-transform: rotate(0deg);
+    /* IE 9 */
+    -webkit-transform: rotate(0deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+
+/* .anima-animate-appear prefix for appear animations */
+
+.anima-animate-appear {
+    opacity: 0;
+    display: block;
+    -webkit-animation: anima-reveal 0.3s ease-in-out 1 normal forwards;
+    -moz-animation: anima-reveal 0.3s ease-in 1 normal forwards;
+    -o-animation: anima-reveal 0.3s ease-in-out 1 normal forwards;
+    animation: anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+
+.anima-animate-disappear {
+    opacity: 1;
+    display: block;
+    -webkit-animation: anima-reveal 0.3s ease-in-out 1 reverse forwards;
+    -moz-animation: anima-reveal 0.3s ease-in 1 normal forwards;
+    -o-animation: anima-reveal 0.3s ease-in-out 1 reverse forwards;
+    animation: anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+
+.anima-animate-nodelay {
+    -webkit-animation-delay: 0;
+    -moz-animation-delay: 0;
+    -o-animation-delay: 0;
+    animation-delay: 0;
+}
+
+@-webkit-keyframes anima-reveal {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-moz-keyframes anima-reveal {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-o-keyframes anima-reveal {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes anima-reveal {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+ .graphics-x-grey {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 112px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1348px;
+}
